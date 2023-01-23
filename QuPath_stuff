@@ -1,0 +1,3 @@
+pip install gdal=2.3.3
+
+pip install fiona=1.8.4
