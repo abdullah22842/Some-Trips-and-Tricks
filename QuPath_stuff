@@ -2,3 +2,5 @@ pip install gdal=2.3.3
 pip install fiona=1.8.4
 pip install python=3.7.11
 pip install geopandas=0.6.1
+
+pip install git+https://github.com/NVIDIA/apex
